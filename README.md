@@ -123,14 +123,6 @@ To develop a **phased, data-driven GTM roadmap** for Nubra that:
 
 ---
 
-## 📁 Repository Structure
-Nubra-GTM-Strategy/
-│
-├── data/ # used multiple dataset and 
-├── work.ipynb # Complete analysis work
-├── Report.pdf
----
-
 ## 🧠 How to Use
 
 1. Download the dataset from the Google Sheets link above.  
@@ -138,13 +130,5 @@ Nubra-GTM-Strategy/
 3. Review `/reports` for GTM strategy blueprints and KPI mapping.  
 4. Integrate results into campaign tracking systems.
 
----
-
-## 🪪 Credits
-
-**Author:** Tanveer Ahmed
-**Project Sponsor:** Zenskar Securities  
-**Role Targeted:** Data Analyst – College Competitive Hiring Challenge  
-**Tools Used:** Python, Pandas, Excel, Matplotlib, Market Analytics  
 ---
 

@@ -1,8 +1,6 @@
 # 🚀 Nubra GTM Strategy Project  
 **Designing a data-driven Go-To-Market strategy for Nubra to onboard engineers into the trading ecosystem**
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Nubra-GTM-Strategy)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/Nubra-GTM-Strategy)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-blue)
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)
@@ -133,5 +131,38 @@ To develop a **phased, data-driven GTM roadmap** for Nubra that:
 ---
 
 ## 📁 Repository Structure
+Nubra-GTM-Strategy/
+│
+├── data/ # used multiple dataset and 
+├── work.ipynb # Complete analysis work
+├── Report.pdf
+---
 
+## 🧠 How to Use
+
+1. Download the dataset from the Google Sheets link above.  
+2. Explore the `/analysis` notebooks for segmentation and funnel analytics.  
+3. Review `/reports` for GTM strategy blueprints and KPI mapping.  
+4. Integrate results into campaign tracking systems.
+
+---
+
+## 🪪 Credits
+
+**Author:** Khagaan  
+**Project Sponsor:** Zenskar Securities  
+**Role Targeted:** Data Analyst – College Competitive Hiring Challenge  
+**Tools Used:** Python, Pandas, Excel, Matplotlib, Market Analytics  
+
+---
+
+## 📜 License
+
+Licensed under the **MIT License** – use, modify, and distribute with attribution.
+
+---
+
+> *"What gets measured, gets improved." — Peter Drucker*
+
+---
 

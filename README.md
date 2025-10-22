@@ -1,5 +1,5 @@
 # 🚀 Nubra GTM Strategy Project  
-**Designing a data-driven Go-To-Market strategy for Nubra to onboard engineers into the trading ecosystem**)
+**Designing a data-driven Go-To-Market strategy for Nubra to onboard engineers into the trading ecosystem**
 
 ---
 ## 🏢 Project Context

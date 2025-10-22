@@ -1,14 +1,7 @@
 # 🚀 Nubra GTM Strategy Project  
-**Designing a data-driven Go-To-Market strategy for Nubra to onboard engineers into the trading ecosystem**
-
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Active-blue)
-![Python](https://img.shields.io/badge/Made%20with-Python-blue)
-![Data Analysis](https://img.shields.io/badge/Domain-Data%20Analysis-orange)
-![Marketing Analytics](https://img.shields.io/badge/Focus-Marketing%20Analytics-yellow)
+**Designing a data-driven Go-To-Market strategy for Nubra to onboard engineers into the trading ecosystem**)
 
 ---
-
 ## 🏢 Project Context
 
 This project was developed as part of a **competitive hiring challenge** conducted by **Zenskar Securities** for the **Data Analyst role** during the college placement process.  
@@ -149,20 +142,9 @@ Nubra-GTM-Strategy/
 
 ## 🪪 Credits
 
-**Author:** Khagaan  
+**Author:** Tanveer Ahmed
 **Project Sponsor:** Zenskar Securities  
 **Role Targeted:** Data Analyst – College Competitive Hiring Challenge  
 **Tools Used:** Python, Pandas, Excel, Matplotlib, Market Analytics  
-
----
-
-## 📜 License
-
-Licensed under the **MIT License** – use, modify, and distribute with attribution.
-
----
-
-> *"What gets measured, gets improved." — Peter Drucker*
-
 ---
 
